@@ -1,5 +1,6 @@
-@use "base";
-@use "components";
-@use "layout";
-@use "utilities";
-@use "vendor";
+@use "./abstracts/" as *;
+@use "./base/" as *;
+@use "./components/" as *;
+@use "./layout/" as *;
+@use "./utilities/" as *;
+@use "./vendor/" as *;
